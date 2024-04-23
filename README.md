@@ -28,5 +28,6 @@ GlassIt-VSC
 ## Window Switcher 🪟 :
 rofi 
 
-## xrandr dual monitor scaling
-xrandr --output HDMI-1 --scale 1.5x1.67
+## dual monitor scaling script: 
+https://github.com/RY4N247/SecondDisplayScript
+
