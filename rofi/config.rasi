@@ -1,0 +1,5 @@
+@theme "themes/gruvbox-dark-soft.rasi"
+* {
+    font: "Source Code Pro 20";
+    text-color: #ebdbb2;
+}
